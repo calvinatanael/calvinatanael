@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calvinatanael
 - 👀 I’m interested in Full Stack Developer and Startup 
-- 🌱 I’m currently learning jQuery, React JS and PHP
+- 🌱 I’m currently learning Full Stack Javascript and Laravel Framework
 - 💞️ I’m looking to collaborate on Web App Project and Open Source Project
 - 📫 How to reach me Chat me in Github :)
 
